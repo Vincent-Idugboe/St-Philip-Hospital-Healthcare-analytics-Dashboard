@@ -104,7 +104,9 @@ This project demonstrates the ability to take raw hospital data, model it relati
 ---
 
 ## Author
-**Vincent Idugboe-**
+**Vincent Idugboe**
 Data & Business Intelligence Analyst | Sheffield, UK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-idugboe)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-idugboe-)
